@@ -4,8 +4,4 @@ With the pandemic I tried to change my life and pursue one of my lifelong dream,
 - 👀 I’m interested in Python, Django, Web Development
 - 🌱 I’m currently learning Python, Django, Pygame
 - 📫 E-mail: gcarvalhofraga@gmail.com | Instagram: @ggbl__ | LinkedIn: www.linkedin.com/in/gabrielcarvalhofraga
-
-<!---
-gCarvalhoF/gCarvalhoF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 College: Análise e desenvolvimento de sistemas (System analysis and development) - IFBA Salvador
