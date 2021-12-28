@@ -8,4 +8,4 @@ Olá, meu nome é Gabriel Carvalho, sempre fui um entusiasta de tecnologia, mas 
 - 📫 E-mail: gcarvalhofraga@gmail.com | Instagram: @ggbl__ | LinkedIn: www.linkedin.com/in/gabrielcarvalhofraga
 - 📚 College: Análise e desenvolvimento de sistemas (System analysis and development) - IFBA Salvador
 
-- (Projetos hospedados)[https://linktr.ee/gabriel__c]
+- [Projetos hospedados](https://linktr.ee/gabriel__c)
