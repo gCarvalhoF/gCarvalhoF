@@ -3,7 +3,7 @@ With the pandemic I tried to change my life and pursue one of my lifelong dream,
 
 Olá, meu nome é Gabriel Carvalho, sempre fui um entusiasta de tecnologia, mas nunca tive coragem de me jogar na programação e aprender o que pude. Com a pandemia, tentei mudar minha vida e perseguir um dos meus sonhos de toda a vida, comecei a aprender a linguagem python e venho estudando e construindo projetos pessoais, e procurando uma oportunidade de trabalho para mostrar o quanto posso aprender e contribuir para a sociedade e empresas.
 
-- 👀 I wish to work with: Python, Django, Web Development
+- 👀 I'm searching the opportunity to work with: Python, Django, Web Development - Back-end
 - 🌱 I’m currently studying and buildng projects with: Python, Django, Pygame, React, React Native, Node.js
 - 📫 E-mail: gcarvalhofraga@gmail.com | Instagram: @ggbl__ | LinkedIn: www.linkedin.com/in/gabrielcarvalhofraga
 - 📚 College: Análise e desenvolvimento de sistemas (System analysis and development) - IFBA Salvador
