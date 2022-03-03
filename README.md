@@ -5,7 +5,7 @@ Olá, meu nome é Gabriel Carvalho, sempre fui um entusiasta de tecnologia, mas 
 
 - 👀 I'm searching the opportunity to work with: Python, Django, Web Development - Back-end
 - 🌱 I’m currently studying and buildng projects with: Python, Django, Pygame, React, React Native, Node.js
-- 📫 E-mail: gcarvalhofraga@gmail.com | Instagram: @ggbl__ | LinkedIn: www.linkedin.com/in/gabrielcarvalhofraga
+- 📫 E-mail: gcarvalhofraga@gmail.com | Instagram: @gabriel__frg | LinkedIn: www.linkedin.com/in/gabrielcarvalhofraga
 - 📚 College: Análise e desenvolvimento de sistemas (System analysis and development) - IFBA Salvador
 
 - [Projetos hospedados](https://linktr.ee/gabriel__c)
