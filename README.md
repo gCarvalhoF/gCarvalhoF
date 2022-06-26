@@ -9,7 +9,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
   ![Node.JS](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python)
-  ![Django](https://img.shields.io/badge/django-333333?style=flat-square&logo=django)
+  ![Django](https://img.shields.io/badge/Django-333333?style=flat-square&logo=django)
   <br>
   
   **Database**<br>
