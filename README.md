@@ -1,11 +1,49 @@
-Hi, my name is Gabriel Carvalho, I always have been a tech entusiast but never had the guts to throw myself at the programming and learn what I could.
-With the pandemic I tried to change my life and pursue one of my lifelong dream, started to learn python language and have been studying and building personal projects, and looking for a job opportunity to show how much I can learn and contribute to both society and companies.
+<div align="center"> <img src="./Assets/gandalf_parrot.gif" width="30px"></div>
 
-Olá, meu nome é Gabriel Carvalho, sempre fui um entusiasta de tecnologia, mas nunca tive coragem de me jogar na programação e aprender o que pude. Com a pandemia, tentei mudar minha vida e perseguir um dos meus sonhos de toda a vida, comecei a aprender a linguagem python e venho estudando e construindo projetos pessoais, e procurando uma oportunidade de trabalho para mostrar o quanto posso aprender e contribuir para a sociedade e empresas.
+<div align="center">
+<p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/gcarvalhof/count.svg"/><p> 
+</div><br>
 
-- 👀 I'm searching the opportunity to work with: Python, Django, Web Development - Back-end
-- 🌱 I’m currently studying and buildng projects with: Python, Django, Pygame, React, React Native, Node.js
-- 📫 E-mail: gcarvalhofraga@gmail.com | Instagram: @gabriel__frg | LinkedIn: www.linkedin.com/in/gabrielcarvalhofraga
-- 📚 College: Análise e desenvolvimento de sistemas (System analysis and development) - IFBA Salvador
+  **Stacks**<br>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.JS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+  <br>
+  
+  **Database**<br>
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SqlLite](https://img.shields.io/badge/-SqlLite-333333?style=flat&logo=sqlite)
+  <br>
+  
+  **DevOps**<br>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github)
+  <br>
+  
+  **DevTools**<br>
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
-- [Projetos hospedados](https://linktr.ee/gabriel__c)
+
+![DanielDDHM-contributions](https://activity-graph.herokuapp.com/graph?username=gcarvalhof&theme=dracula)
+<div align="center">
+  <a href="https://github.com/gcarvalhof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcarvalhofM&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=great-gatsby"/>
+</div>
+
+<br>
+<p align="justify">
+<img src="./Assets/handshake.gif" height="32px"> Connect with me <img src="./Assets/handshake.gif" height="32px">
+</p>
+
+[![Linkedin: Gabriel Carvalho](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcarvalhof/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcarvalhof@gmail.com)
+[![GitHub Gabriel Carvalho](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcarvalhof)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571996821835)
+
+
+
