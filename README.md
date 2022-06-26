@@ -27,7 +27,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
 
-![DanielDDHM-contributions](https://activity-graph.herokuapp.com/graph?username=gcarvalhof&theme=dracula)
+![DanielDDHM-contributions](https://activity-graph.herokuapp.com/graph?username=gcarvalhof&theme=night-owl)
 <div align="center">
   <a href="https://github.com/gcarvalhof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcarvalhof&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=great-gatsby"/>
