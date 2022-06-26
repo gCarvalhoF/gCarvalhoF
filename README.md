@@ -30,7 +30,7 @@
 ![DanielDDHM-contributions](https://activity-graph.herokuapp.com/graph?username=gcarvalhof&theme=dracula)
 <div align="center">
   <a href="https://github.com/gcarvalhof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcarvalhofM&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcarvalhof&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=great-gatsby"/>
 </div>
 
 [![Linkedin: Gabriel Carvalho](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcarvalhof/)
