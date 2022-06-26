@@ -1,5 +1,3 @@
-<div align="center"> <img src="./Assets/gandalf_parrot.gif" width="30px"></div>
-
 <div align="center">
 <p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/gcarvalhof/count.svg"/><p> 
@@ -34,11 +32,6 @@
   <a href="https://github.com/gcarvalhof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcarvalhofM&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=great-gatsby"/>
 </div>
-
-<br>
-<p align="justify">
-<img src="./Assets/handshake.gif" height="32px"> Connect with me <img src="./Assets/handshake.gif" height="32px">
-</p>
 
 [![Linkedin: Gabriel Carvalho](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcarvalhof/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcarvalhof@gmail.com)
