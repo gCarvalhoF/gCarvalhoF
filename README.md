@@ -34,11 +34,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcarvalhof&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=great-gatsby"/>
 </div>
 
-
+<p align="center">
   [![Linkedin: Gabriel Carvalho](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcarvalhof/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcarvalhof@gmail.com)
   [![GitHub Gabriel Carvalho](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcarvalhof)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571996821835)
-
-
+</p>
 
