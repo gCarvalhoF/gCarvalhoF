@@ -4,7 +4,7 @@
 </div>
 </br>
 
-I'm a curious and enthusiastic software developer with 9 months of experience in the coding universe. I've been on an exciting journey exploring the realms of Ruby and Ruby on Rails. My coding adventures started with working on a monolithic project built solely with Ruby on Rails and some javascript for dynamic pages, and now I find myself on a new mission as the backend developer for a social media project.
+I'm a curious and enthusiastic software developer with 1+ years of experience in the coding universe. I've been on an exciting journey exploring the realms of Ruby and Ruby on Rails. My coding adventures started with working on a monolithic project built solely with Ruby on Rails and some javascript for dynamic pages, and now I find myself on a new mission as the backend developer for a social media project.
 
 In this new challenge, I've been working on the back end playing with the API built in Ruby on Rails, while the app itself is written in Swift. I enjoy tackling challenges, whether it's creating new endpoints to provide data for the app, implementing exciting features, or even building scrapers to gather information from different sources. I love the ever-evolving nature of coding, and I'm always eager to learn and explore new galaxies of knowledge.
 
@@ -33,9 +33,4 @@ In this new challenge, I've been working on the back end playing with the API bu
   
 
 [![Linkedin: Gabriel Carvalho](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcarvalhof/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcarvalhof@gmail.com)
 [![GitHub Gabriel Carvalho](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcarvalhof)
-
-[![wakatime](https://wakatime.com/badge/user/407866f7-1bde-4e58-a967-d53cf0e0ccad.svg?style=for-the-badge)](https://wakatime.com/@407866f7-1bde-4e58-a967-d53cf0e0ccad)
-
-
