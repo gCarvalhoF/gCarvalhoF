@@ -5,7 +5,9 @@
 </br>
 
 <div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfplayer&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 I'm a curious and enthusiastic software developer with 1+ years of experience in the coding universe. I've been on an exciting journey exploring the realms of Ruby and Ruby on Rails. My coding adventures started with working on a monolithic project built solely with Ruby on Rails and some javascript for dynamic pages, and now I find myself on a new mission as the backend developer for a social media project.
