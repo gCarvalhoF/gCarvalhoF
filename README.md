@@ -10,9 +10,11 @@
 
 </div>
 
-I'm a curious and enthusiastic software developer with 1+ years of experience in the coding universe. I've been on an exciting journey exploring the realms of Ruby and Ruby on Rails. My coding adventures started with working on a monolithic project built solely with Ruby on Rails and some javascript for dynamic pages, and now I find myself on a new mission as the backend developer for a social media project.
+I only know how to do CRUD.
 
-In this new challenge, I've been working on the back end playing with the API built in Ruby on Rails, while the app itself is written in Swift. I enjoy tackling challenges, whether it's creating new endpoints to provide data for the app, implementing exciting features, or even building scrapers to gather information from different sources. I love the ever-evolving nature of coding, and I'm always eager to learn and explore new galaxies of knowledge.
+I'm a software developer with 1+ years of experience, focused on CRUD operations. My journey began with a monolithic Ruby on Rails project, incorporating some JavaScript for dynamic pages. Currently, I'm the backend developer for a social media project, handling APIs in Ruby on Rails while the app is developed in Swift.
+
+I specialize in creating new endpoints, implementing features, and building scrapers to gather data. I'm committed to continuous learning and exploring new technologies.
 
   **Techs**
 
