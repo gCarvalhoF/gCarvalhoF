@@ -4,9 +4,12 @@
 </div>
 </br>
 
-I'm a curious and enthusiastic software developer with 1+ years of experience in the coding universe. I've been on an exciting journey exploring the realms of Ruby and Ruby on Rails. My coding adventures started with working on a monolithic project built solely with Ruby on Rails and some javascript for dynamic pages, and now I find myself on a new mission as the backend developer for a social media project.
-
-In this new challenge, I've been working on the back end playing with the API built in Ruby on Rails, while the app itself is written in Swift. I enjoy tackling challenges, whether it's creating new endpoints to provide data for the app, implementing exciting features, or even building scrapers to gather information from different sources. I love the ever-evolving nature of coding, and I'm always eager to learn and explore new galaxies of knowledge.
+Fullstack developer with solid experience in Ruby on Rails and high-pressure projects for international clients. I seek to contribute
+to dynamic teams, using my expertise to create innovative and high-quality solutions. My professional background includes the
+development of e-commerce platforms, social networks, and MVC projects, always focusing on agile and consistent deliveries.
+Skilled in working with both older and newer technologies, and fluent in English, I have the ability to collaborate effectively in
+global projects. My goal is to add value to the team and business through my passion for development and advanced technical
+skills.
 
   **Techs**
 
